@@ -8,7 +8,7 @@ For this hack you wont have to even leave the instagram app. (No websites/human 
 
 Follow the steps below to get real instagram followers.
 
-```markdown
+`Code`
 
 # Header 1
 ## Header 2
