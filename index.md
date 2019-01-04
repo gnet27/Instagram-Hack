@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Gnet27
 
-You can use the [editor on GitHub](https://github.com/gnet27/insta/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here I will show you a very easy method of how to get free working insta
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
