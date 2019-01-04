@@ -1,15 +1,14 @@
 ## Welcome to Gnet27
 
-Here I will show you a very easy method of how to get free working insta
+Here I will show you a very easy method of how to get free working instagram followers hack.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For this hack you wont have to even leave the instagram app. (No websites/human verification).
 
-### Markdown
+### The hack
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Follow the steps below to get real instagram followers.
 
 ```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
