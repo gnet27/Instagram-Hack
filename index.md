@@ -8,12 +8,18 @@ For this hack you wont have to even leave the instagram app. (No websites/human 
 
 Follow the steps below to get real instagram followers.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Follow @popugram_original
+2. Follow ALL the people that popugram follows
+3. Then your followers should start increasing
+4. Unfollow and keep on following the people that popugram follows
+5. Keep on repeating the follow and unfollow steps.
 
-### Jekyll Themes
+### *MUST READ
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gnet27/insta/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you keep on following and unfollowing lots of people instagram will soft ban you. This means you can’t follow or unfollow anyone for 1-30 (or maybe more) minutes. Please do not abuse this feature or your account may get marked as suspicious. I recomend doing this 1-4 times a day with at least a 7-15 minute pause between each.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble? Email gnethyper@gmail.com for support.
+
+Enjoying this method? Follow @gnet.official on instagram to show some support.
