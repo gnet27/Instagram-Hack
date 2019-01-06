@@ -8,11 +8,11 @@ For this hack you wont have to even leave the instagram app. (No websites/human 
 
 Follow the steps below to get real instagram followers.
 
-1. Follow @popugram_original
-2. Follow ALL the people that popugram follows
-3. Then your followers should start increasing
-4. Unfollow and keep on following the people that popugram follows
-5. Keep on repeating the follow and unfollow steps.
+Follow @popugram_original
+Follow ALL the people that popugram follows
+Then your followers should start increasing
+Unfollow and keep on following the people that popugram follows
+Keep on repeating the follow and unfollow steps.
 
 ### *MUST READ
 
